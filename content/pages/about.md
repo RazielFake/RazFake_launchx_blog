@@ -11,7 +11,7 @@ Hola, aquí vas a leer un poco sobre mi 🤩
 
 > Mi nombre es Raziel
 > 
-> Uno de mis sueños es colaborar en el desarrollo de algún videojuego
+>> Uno de mis sueños es colaborar en el desarrollo de algún videojuego
 > 
 > Continuo trabajando para mejorar cada día
 
@@ -50,8 +50,8 @@ porque el conocimiento es algo que debe compartirse y no quedarse estatico. Soy 
 de que hay muchos mejores que yo en esta area y en muchas más, pero más que compararme, 
 eso me motiva a ser mejor para poder algun día encontrarme entre los mejores.
 
-:earth_americas: **Actualmente me encuentro aun expandiendo mis conocimientos, buscando 
-una oportunidad de abrirme al mundo y mejorar el mundo en el que todos vivimos.** :earth_americas:
+**Actualmente me encuentro aun expandiendo mis conocimientos, buscando 
+una oportunidad de abrirme al mundo y mejorar el mundo en el que todos vivimos.**
 
-:smiley: :smile: ***Si llegaste hasta aquí, te agradezco mucho por tomarte tu tiempo para leer esto!*** :smile: :smiley:
+ ***Si llegaste hasta aquí, te agradezco mucho por tomarte tu tiempo para leer esto!***
 
